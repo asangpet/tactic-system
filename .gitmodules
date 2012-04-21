@@ -1,0 +1,6 @@
+[submodule "virgo"]
+	path = virgo
+	url = git@github.com:asangpet/tactic-virgo.git
+[submodule "components"]
+	path = components
+	url = git@github.com:asangpet/tactic.git
